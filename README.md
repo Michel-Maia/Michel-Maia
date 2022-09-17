@@ -12,7 +12,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na  faculdade Anhanguera
   
   <div>
   <a href="https://github.com/michel-maia">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=michel-maia&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="180em" widht="50em" src="https://github-readme-stats.vercel.app/api?username=michel-maia&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="252em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michel-maia&layout=compact&langs_count=168&theme=prussian"/>
   </div> <br> <br>
   
