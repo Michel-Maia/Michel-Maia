@@ -14,8 +14,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na  faculdade Anhanguera
 var booksList = 
 {
   currentYear: [ "Dentes de dragão", "A Verdade Sobre o Caso Harry Quebert" ],
-  inProgress: [ Scrum: A arte de fazer o dobro do trabalho na metade do tempo ],
-  next: [ Seja egoísta com sua carreira, Dê propósito ]
+  inProgress: [ "Scrum: A arte de fazer o dobro do trabalho na metade do tempo" ],
+  next: [ "Seja egoísta com sua carreira", "Dê propósito" ]
 }	
 ```` 
 
