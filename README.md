@@ -9,6 +9,19 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na  faculdade Anhanguera
 - 😄 Pronomes: Ele/dele. Pronouns: he/his
 <br>
 
+
+````javascript
+var booksList = 
+{
+  currentYear: [ "Dentes de dragão", "A Verdade Sobre o Caso Harry Quebert" ],
+  inProgress: [ Scrum: A arte de fazer o dobro do trabalho na metade do tempo ],
+  next: [ Seja egoísta com sua carreira, Dê propósito ]
+}	
+```` 
+
+
+
+
   
   <div>
   <a href="https://github.com/michel-maia">
