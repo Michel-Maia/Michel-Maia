@@ -4,7 +4,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na  faculdade Anhanguera
 
 
 - 🔭 Atualmente estou trabalhando com Front-end. I’m currently working on Front-end
-- 🌱 Atualmente estou aprendendo Javascript. I’m currently learning Javascript
+- 🌱 Atualmente estou aprendendo SQL. I’m currently learning SQL
 - 📫 Como me encontrar. How to reach me: linkedin.com/in/maia-michel | email: programador.michel.maia@gmail.com
 - 😄 Pronomes: Ele/dele. Pronouns: he/his
 <br>
