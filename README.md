@@ -10,6 +10,8 @@ In October 2021 I made one of the best decisions of my life, I traded 12 years o
 - 🌱 Atualmente estou aprendendo SQL. I’m currently learning SQL
 - 📫 Como me encontrar. How to reach me: linkedin.com/in/maia-michel | email: programador.michel.maia@gmail.com
 - 😄 Pronomes: Ele/dele. Pronouns: he/his
+- 📗 Atualmente estou lendo. Dentes de dragão, Michael Crichton
+
 <br>
 
   
