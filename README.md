@@ -4,10 +4,11 @@ Em outubro de 2021 tomei uma das melhores decisões da minha vida, troquei 12 an
 
 In October 2021 I made one of the best decisions of my life, I traded 12 years of experience in the area of Private Security for a career transition in technology. I am currently a Systems Analysis and Development student at Anhanguera College. 
 
+<!--
 <p align="center">
   <img src="https://tenor.com/view/jim-carrey-jim-carrey-typing-jim-carrey-typing-angry-jim-carrey-typing-fast-gif-22736994"/>
 </p>
-
+-->
 
 
 - 🔭 Atualmente estou trabalhando com Front-end. I’m currently working on Front-end
@@ -17,7 +18,7 @@ In October 2021 I made one of the best decisions of my life, I traded 12 years o
 - 📗 Atualmente estou lendo. Dentes de dragão, Michael Crichton
 
 <br>
-
+<br>
   
   <div>
   <a href="https://github.com/michel-maia">
