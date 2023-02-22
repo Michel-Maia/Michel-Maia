@@ -39,7 +39,7 @@ In October 2021 I made one of the best decisions of my life, I traded 12 years o
 <div style= "display: inline_block">
   <img align="center" alt="DP-badge" height="90" width="100" src="dp900-michel.png">
   <img align="center" alt="AZ-badge" height="80" width="90" src="az900-michel.png">
-  <img align="center" alt="Databricks-badge" height="90" width="100" src="databricks-michel.png">
+  <img align="center" alt="Databricks-badge" height="105" width="100" src="databricks-michel.png">
   <img align="center" alt="Srcum-badge" height="80" width="90" src="scrum-michel.png">
 </div>
 <br>
