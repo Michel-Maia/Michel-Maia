@@ -36,7 +36,7 @@ In October 2021 I made one of the best decisions of my life, I traded 12 years o
 <a href="https://www.linkedin.com/in/maia-michel" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 <div style= "display: inline_block">
-  <img align="center" alt="DP-badge" height="80" width="90" src="dp900-michel">
+  <img align="center" alt="DP-badge" height="80" width="90" src="dp900-michel.png">
 
 
 ![Snake animation](https://github.com/Michel-Maia/Michel-Maia/blob/output/github-contribution-grid-snake.svg)
