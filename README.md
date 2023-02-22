@@ -18,18 +18,6 @@ In October 2021 I made one of the best decisions of my life, I traded 12 years o
 - 📗 Atualmente estou lendo. Dentes de dragão, Michael Crichton
 
 <br>
-<br>
-  
-  <div>
-  <a href="https://github.com/michel-maia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michel-maia&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michel-maia&layout=compact&langs_count=168&theme=prussian"/>
-  </div> <br> <br>
-
-
-## 
-
-<br>
 
 <div>
 
@@ -42,6 +30,18 @@ In October 2021 I made one of the best decisions of my life, I traded 12 years o
   <img align="center" alt="Databricks-badge" height="100" width="100" src="databricks-michel.png">
   <img align="center" alt="Srcum-badge" height="80" width="90" src="scrum-michel.png">
 </div>
+<br>
+<br>
+  
+  <div>
+  <a href="https://github.com/michel-maia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michel-maia&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michel-maia&layout=compact&langs_count=168&theme=prussian"/>
+  </div> <br> <br>
+
+
+## 
+
 <br>
 
 ![Snake animation](https://github.com/Michel-Maia/Michel-Maia/blob/output/github-contribution-grid-snake.svg)
