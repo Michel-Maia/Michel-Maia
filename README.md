@@ -12,10 +12,10 @@ In October 2021 I made one of the best decisions of my life, I traded 12 years o
 
 
 - 🔭 Atualmente estou trabalhando com Front-end. I’m currently working on Front-end
-- 🌱 Atualmente estou aprendendo SQL. I’m currently learning SQL
+- 🌱 Atualmente estou aprendendo SQL e Python. I’m currently learning SQL e Python
 - 📗 Atualmente estou lendo. Dentes de dragão, Michael Crichton
-- 📫 Como me encontrar. How to reach me: email: programador.michel.maia@gmail.com 
-<a href="https://www.linkedin.com/in/maia-michel" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>  
+- 📫 Como me encontrar. How to reach me: 
+<a href="programador.michel.maia@gmail.com " target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/maia-michel" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>  
 
 
 <br>
