@@ -11,7 +11,6 @@ In October 2021 I made one of the best decisions of my life, I traded 12 years o
 -->
 
 
-- 🔭 Atualmente estou trabalhando com Front-end. I’m currently working on Front-end
 - 🌱 Atualmente estou aprendendo SQL e Python. I’m currently learning SQL e Python
 - 📗 Atualmente estou lendo. Dentes de dragão, Michael Crichton
 - 📫 Como me encontrar. How to reach me: 
