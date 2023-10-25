@@ -41,7 +41,8 @@ In October 2021 I made one of the best decisions of my life, I traded 12 years o
 ## 
 
 <br>
-
+<!--
 ![Snake animation](https://github.com/Michel-Maia/Michel-Maia/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+-->
