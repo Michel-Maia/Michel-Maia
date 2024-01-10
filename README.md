@@ -1,8 +1,9 @@
-### Oi eu sou Michel Maia | Hi I'm Michel Maia 👋
+### Oi eu sou Michel Maia 👋
 
-Em outubro de 2021 tomei uma das melhores decisões da minha vida, troquei 12 anos de experiência na área da Segurança Privada, por uma transição de carreira na tecnologia. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na faculdade Anhanguera. 
+Sou recém formado em Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera. 
+Apaixonado por estudar porque acredito no poder do conhecimento para transformar vidas. 
+Atualmente estou estudando Python, SQL e GenAI. 
 
-In October 2021 I made one of the best decisions of my life, I traded 12 years of experience in the area of Private Security for a career transition in technology. I am currently a Systems Analysis and Development student at Anhanguera College. 
 
 <!--
 <p align="center">
@@ -12,7 +13,7 @@ In October 2021 I made one of the best decisions of my life, I traded 12 years o
 
 
 - 🌱 Atualmente estou aprendendo SQL e Python. I’m currently learning SQL e Python
-- 📗 Atualmente estou lendo. Dentes de dragão, Michael Crichton
+- 📗 Atualmente estou lendo. O JEITO HARVARD DE SER FELIZ, Shawn Achor
 - 📫 Como me encontrar. How to reach me: 
 <a href="programador.michel.maia@gmail.com " target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/maia-michel" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>  
 
