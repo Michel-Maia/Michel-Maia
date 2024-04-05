@@ -2,7 +2,7 @@
 
 Sou recém formado em Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera. 
 Apaixonado por estudar porque acredito no poder do conhecimento para transformar vidas. 
-Atualmente estou estudando Python, SQL e GenAI. 
+Atualmente estou estudando Python, SQL e ML/AI. 
 
 
 <!--
