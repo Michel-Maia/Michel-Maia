@@ -1,8 +1,8 @@
 ### Oi eu sou Michel Maia 👋
 
-Sou recém formado em Análise e Desenvolvimento de Sistemas pela faculdade Anhanguera. 
+Estudante PÓS TECH, Machine Learning Engineering pela FIAP. 
 Apaixonado por estudar porque acredito no poder do conhecimento para transformar vidas. 
-Atualmente estou estudando Python, SQL e ML/AI. 
+Atualmente estou estudando Python, SQL, Machine Learning e Inteligência Artificial. 
 
 
 <!--
@@ -15,7 +15,7 @@ Atualmente estou estudando Python, SQL e ML/AI.
 - 🌱 Atualmente estou aprendendo SQL e Python. I’m currently learning SQL e Python
 - 📗 Atualmente estou lendo. O JEITO HARVARD DE SER FELIZ, Shawn Achor
 - 📫 Como me encontrar. How to reach me: 
-<a href="programador.michel.maia@gmail.com " target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/maia-michel" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>  
+ <a href="https://www.linkedin.com/in/maia-michel" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>  
 
 
 <br>
