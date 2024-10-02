@@ -1,7 +1,6 @@
 ### Oi eu sou Michel Maia 👋
 
 Estudante PÓS TECH, Machine Learning Engineering pela FIAP. 
-Apaixonado por estudar porque acredito no poder do conhecimento para transformar vidas. 
 Atualmente estou estudando Python, SQL, Machine Learning e Inteligência Artificial. 
 
 
